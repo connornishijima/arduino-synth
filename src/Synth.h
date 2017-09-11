@@ -9,12 +9,13 @@
 #include "TimerOne.h"
 #include "Arduino.h"
 
-#define TUNING 1.020 // DEFAULT 1.020, adjust if needed
+#define TUNING 1.020 // DEFAULT 1.020 to account for interrupt execution time, adjust if needed
 
-#define SQUARE_WAVE		0
+// CONSTANTS FOR EASE OF USE
+#define SQUARE_WAVE	0
 #define SAWTOOTH_WAVE	1
 #define TRIANGLE_WAVE	2
-#define SINE_WAVE		3
+#define SINE_WAVE	3
 
 class Synth
 {
