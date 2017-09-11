@@ -1,0 +1,22 @@
+{
+  "name": "Synth",
+  "description": "Gives tone functionality with 8-bit volume control and multiple wave types with no extra parts!",
+  "keywords": "volume,control,tone,cone,speaker,pwm,magic,synth,dds,sine,square,triangle,sawtooth",
+  "authors":
+  {
+    "name": "Connor Nishijima",
+    "email": "connornishijima@gmail.com"
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/connornishijima/arduino-synth.git"
+  },
+  "version": "1.0.0",
+  "examples": "examples/*.ino",
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr"
+  ]
+}
