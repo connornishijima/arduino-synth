@@ -1,10 +1,10 @@
 /*
-   Synth || Housefly Example
+   Synth || Test Sounds Example
 
-   Sawtooth waves can sound like insect wings at the right frequency.
-
-   By applying random movement to the volume and wiggling the frequency around,
-   you can mimic the sound of an insect flying around your ears.
+   TINNITUS:      A SINE_WAVE fading in and out at 2000Hz
+   GAMEBOY:       A familar TRIANGLE_WAVE
+   WOLF WHISTLE:  An sometimes unwanted advance in a SAWTOOTH_WAVE
+   R2D2:          With this SQUARE_WAVE, you’ll be malfunctioning within a day, you nearsighted scrap pile.
 */
 
 #include "Synth.h"
