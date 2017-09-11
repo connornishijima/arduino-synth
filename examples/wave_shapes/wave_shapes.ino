@@ -9,7 +9,7 @@
       TRIANGLE_WAVE
       SINE_WAVE
 
-   and set with syn.tone_type(WAVE_SHAPE).
+   and are set with syn.tone_type(WAVE_SHAPE).
 
    You will hear 700Hz tones fading to silence in the four wave shapes!
 */
