@@ -6,24 +6,24 @@
 # Datatypes (KEYWORD1)
 ###################################
 
-Synth   KEYWORD1
+Synth	KEYWORD1
 
 ###################################
 # Methods and Functions (KEYWORD2)
 ###################################
 
-syn KEYWORD2
-tone    KEYWORD2
+syn	KEYWORD2
+tone	KEYWORD2
 tone_type	KEYWORD2
-tone_seeded KEYWORD2
-tone_custom KEYWORD2
-stop    KEYWORD2
+tone_seeded	KEYWORD2
+tone_custom	KEYWORD2
+stop	KEYWORD2
 
 ###################################
 # Constants (LITERAL1)
 ###################################
 
-SQUARE_WAVE LITERAL1
-SAWTOOTH_WAVE   LITERAL1
-TRIANGLE_WAVE   LITERAL1
-SINE_WAVE   LITERAL1
+SQUARE_WAVE	LITERAL1
+SAWTOOTH_WAVE	LITERAL1
+TRIANGLE_WAVE	LITERAL1
+SINE_WAVE	LITERAL1
